@@ -9,7 +9,7 @@ The Go compiler's job is to take Go code and produce machine code. On Windows, t
 We'll go over this all later in more detail, but to sate your curiosity for now, here are a few tidbits about the code.
 
 1. `package main` lets the Go compiler know that we want this code to compile and run as a standalone program, as opposed to being a library that's imported by other programs.
-2. `import fmt` imports the `fmt` (formatting) package. The formatting package exists in Go's standard library and let's us do things like print text to the console.
+2. `import fmt` imports the `fmt` (formatting) package. The formatting package exists in Go's standard library and lets us do things like print text to the console.
 3. `func main()` defines the `main` function. `main` is the name of the function that acts as the entry point for a Go program.
 
 ## Assignment

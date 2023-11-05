@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main() {
+func complete() {
 	fmt.Println("the-compiled Textio server is starting")
 }

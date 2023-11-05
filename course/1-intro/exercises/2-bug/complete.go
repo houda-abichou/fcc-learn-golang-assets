@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func complete() {
 	messagesFromDoris := []string{
 		"You doing anything later??",
 		"Did you get my last message?",
